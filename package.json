@@ -1,0 +1,21 @@
+{
+  "name": "GE Bank",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Nedal",
+  "contributors": [],
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "main": "bot.js",
+  "scripts": {
+  },
+  "license": "ISC",
+  "description": ""
+}
